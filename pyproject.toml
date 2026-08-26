@@ -8,8 +8,11 @@ authors = [
 ]
 requires-python = ">=3.14"
 dependencies = [
+    "kagglehub>=1.0.2",
     "pandas>=3.0.5",
+    "pathlib>=1.0.1",
     "psycopg2-binary>=2.9.12",
+    "pyarrow>=25.0.1",
     "sqlalchemy>=2.0.52",
 ]
 
