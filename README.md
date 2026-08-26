@@ -17,3 +17,12 @@ This project ingests raw data from an external source, processes and validates i
 - Containerization
 - SQL analytics
 - Data pipeline design
+
+#### Project Objectives:
+1. Build a reproducible data ingestion pipeline using Python.
+2. Containerize the pipeline using Docker.
+3. Store raw data in Amazon S3.
+4. Transform and validate the data using Python.
+5. Load structured data into PostgreSQL on Amazon RDS.
+6. Query and analyse the processed data using SQL.
+7. Apply data engineering practices that can be extended into a production workflow.
